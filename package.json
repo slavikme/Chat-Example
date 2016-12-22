@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/slavikme/chat-example/issues"
   },
-  "homepage": "https://github.com/slavikme/chat-example#readme"
+  "homepage": "https://github.com/slavikme/chat-example#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
